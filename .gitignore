@@ -1,0 +1,74 @@
+# =========================
+# Unreal Engine Plugin
+# =========================
+
+# Binaries
+Binaries/
+*/Binaries/
+
+# Intermediate build files
+Intermediate/
+*/Intermediate/
+
+# Derived data cache
+DerivedDataCache/
+
+# Saved data (logs, autosaves, crash reports)
+Saved/
+*/Saved/
+
+# =========================
+# Visual Studio / Rider / IDE
+# =========================
+
+.vs/
+.idea/
+.vscode/
+
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# VS / MSBuild
+*.VC.db
+*.VC.opendb
+
+# Rider
+*.sln.iml
+
+# =========================
+# Build artifacts
+# =========================
+
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Unreal specific
+# =========================
+
+# Generated project files
+*.opensdf
+*.sdf
+*.suo
+
+# Hot reload
+*.dll
+*.exe
+*.dylib
+*.so
+
+# Crash reports
+CrashReportClient/

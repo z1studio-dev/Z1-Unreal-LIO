@@ -1,0 +1,24 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Lio",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "z1 studio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LioCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
+		
