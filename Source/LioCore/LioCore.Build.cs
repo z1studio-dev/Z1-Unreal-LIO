@@ -1,5 +1,7 @@
 ﻿using UnrealBuildTool;
 
+[SupportedTargetTypes(TargetType.Game, TargetType.Editor)]
+
 public class LioCore : ModuleRules
 {
     public LioCore(ReadOnlyTargetRules Target) : base(Target)
