@@ -18,7 +18,11 @@
 			"Name": "LioCore",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "LioEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
 		}
 	]
 }
-		
